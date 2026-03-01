@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Blank Space",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2026-03-01T11:44:47.190720Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/01_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/02_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "DJ Madd",
+      "has_synced": false,
+      "path": "select/03_Blank_Space_DJ_Madd.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Ariana Savalas",
+      "has_synced": true,
+      "path": "select/04_Blank_Space_Scott_Bradlee's_Postmodern_Jukebox_feat._Ariana_Savalas.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Blank Space - Voice Memo",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/05_Blank_Space_-_Voice_Memo_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blank Space - Voice Memos",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/06_Blank_Space_-_Voice_Memos_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/07_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/09_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Blank Space - Commentary",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/10_Blank_Space_-_Commentary_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/11_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/12_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/13_Blank_Space_Taylor_Swift.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Blank Space",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Blank_Space_Taylor_Swift.txt"
+    }
+  ]
+}
